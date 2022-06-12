@@ -9,7 +9,6 @@ The purpose of this project is to build a database system to hold employee data 
 ## Results
 
 1. Our new database system provides a unified structure, pictured below, that connects all of Pewlett-Hackard's individual CSV files along common primary keys.
-
 ![EmployeeDB](https://user-images.githubusercontent.com/103288980/173212436-4c5b69f6-49b2-474b-9c74-9a1f5d881290.png)
 
 2. Pewlett-Hackard's records contained multiple repeted entries for the same employees with different positions. These records were heldover as employees gained promotions throught the years. We have created a query that can be used to construct a list of retiring employees with only their current titles, seen below.

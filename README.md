@@ -34,6 +34,6 @@ The purpose of this project is to build a database system to hold employee data 
 
 ### Question 2
 
-* In order to determine whether Pewlett-Hackard will have enough personnel to fill the coming vacancies, we created a query that returns the total number of employees who are not part of the "silver tsunami" (employees not born between January 1, 1952 and December 31, 1955). According to the table below, Pewlett-Hackard will have more than enough personnel to fill their upcoming vacancies. This query can be found in the "Queries" folder of this repository.
+* In order to determine whether Pewlett-Hackard will have enough retirement-ready personnel to mentor the next generation, we created a query that returns the total number of employees who are not part of the "silver tsunami" (employees not born between January 1, 1952 and December 31, 1955). According to the table below, Pewlett-Hackard has significantly more employees who will be staying in the company than there are retirement-ready employees. The company is encouraged to commence their mentorship program as soon as possible and possibly seek to retain some retirement-ready employees on a part-time basis to continue mentoring the next generation. This query can also be found in the "Queries" folder of this repository.
 
 ![available_personnel](https://user-images.githubusercontent.com/103288980/173213870-227ac922-819a-4fde-a38c-d8aec6f693d1.PNG)

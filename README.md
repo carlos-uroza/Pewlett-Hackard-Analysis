@@ -24,4 +24,16 @@ The purpose of this project is to build a database system to hold employee data 
 
 ![mentorship_eligibilty](https://user-images.githubusercontent.com/103288980/173212784-e49539a9-9d3f-4bc2-9136-2ea3585416ea.PNG)
 
-### Summary
+## Summary
+
+### Question 1
+
+* We have created a query that returns the total number of employees who will retire in the first year of the "silver tsunami". This list contains only employees who were born in 1952. It is significant to note, this table makes the assumption that only employees born in 1952 would retire first.
+
+![retiring_titles_wave1](https://user-images.githubusercontent.com/103288980/173213866-7d1b5a26-5620-4b47-8cfd-931733698a46.PNG)
+
+### Question 2
+
+* In order to determine whether Pewlett-Hackard will have enough personnel to fill the coming vacancies, we created a query that returns the total number of employees who are not part of the "silver tsunami" (employees not born between January 1, 1952 and December 31, 1955). According to the table below, Pewlett-Hackard will have more than enough personnel to fill their upcoming vacancies.
+
+![available_personnel](https://user-images.githubusercontent.com/103288980/173213870-227ac922-819a-4fde-a38c-d8aec6f693d1.PNG)
